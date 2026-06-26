@@ -1,0 +1,18 @@
+# Ignore environment files
+dev.env
+*.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore build artifacts
+dist/
+build/
+
+# Ignore Docker-related files
+*.log
+*.pid
